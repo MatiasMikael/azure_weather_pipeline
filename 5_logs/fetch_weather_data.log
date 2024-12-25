@@ -1,0 +1,6 @@
+2024-12-25 10:45:25,303 - INFO - Fetching weather data for city: Helsinki
+2024-12-25 10:45:25,491 - INFO - Weather data fetched successfully for city: Helsinki
+2024-12-25 10:45:25,522 - INFO - Weather data saved to 2_data\weather_data.csv
+2024-12-25 11:20:20,087 - INFO - Fetching weather data for city: Helsinki
+2024-12-25 11:20:20,228 - INFO - Weather data fetched successfully for city: Helsinki
+2024-12-25 11:20:20,259 - INFO - Weather data saved to 2_data\weather_data.csv

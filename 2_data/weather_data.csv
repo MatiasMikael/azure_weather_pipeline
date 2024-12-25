@@ -1,0 +1,2 @@
+coord,weather,base,main,visibility,wind,clouds,dt,sys,timezone,id,name,cod
+"{'lon': 24.9355, 'lat': 60.1695}","[{'id': 300, 'main': 'Drizzle', 'description': 'light intensity drizzle', 'icon': '09d'}]",stations,"{'temp': 4.18, 'feels_like': -1.81, 'temp_min': 3.27, 'temp_max': 5.03, 'pressure': 1020, 'humidity': 92, 'sea_level': 1020, 'grnd_level': 1018}",6000,"{'speed': 11.18, 'deg': 231, 'gust': 13.41}",{'all': 100},1735118333,"{'type': 2, 'id': 2011913, 'country': 'FI', 'sunrise': 1735111524, 'sunset': 1735132520}",7200,658225,Helsinki,200

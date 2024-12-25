@@ -1,0 +1,2 @@
+city,latitude,longitude,temperature,feels_like,pressure,humidity,weather,description,wind_speed,country
+Helsinki,60.1695,24.9355,4.18,-1.81,1020,92,Drizzle,light intensity drizzle,11.18,FI

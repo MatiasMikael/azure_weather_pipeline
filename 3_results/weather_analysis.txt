@@ -1,0 +1,6 @@
+City: Helsinki
+Temperature: 4.18°C
+Feels like: -1.81°C
+Humidity: 92%
+Weather description: light intensity drizzle
+The weather feels colder than the actual temperature.
